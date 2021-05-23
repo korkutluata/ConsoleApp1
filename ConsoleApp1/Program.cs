@@ -12,6 +12,8 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello GitHubWorld");
             Console.WriteLine("Hello everyone on the GitHubWorld");
+            Console.WriteLine("Hello everbody on the GitHubWorld");
+            Console.WriteLine("Hello just you on the GitHubWorld");
         }
     }
 }
